@@ -29,3 +29,8 @@ _Ejemplo BinarySearch_
 _Ejemplo LinearSearch_
 
 ![image](https://github.com/user-attachments/assets/115187a3-83f0-4e6e-83a0-bbf9a8c60a06)
+
+
+_¿Qué faltó?_
+
+Fue falto poder realizar el Proxy junto a poder desplegarlo en máquinas EC2 en AWS y hacer uso de HTML para poder utilizar formularios para los dos algoritmos propuestos. 
